@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ```
 
 ## 📜 TODO List
-- [x] Release the dataset preparation and annotations.
+- [x] Release the dataset preparation.
 - [x] Release the main codes for implementation.
 
 
