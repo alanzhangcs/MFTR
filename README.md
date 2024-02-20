@@ -5,7 +5,7 @@
 </p>
 
 
-## Requirements
+## ⚙️ Requirements
 
 - Python 3.6
 - matplotlib == 3.1.1
