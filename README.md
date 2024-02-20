@@ -24,8 +24,8 @@ pip install -r requirements.txt
 - [x] Release the main codes for implementation.
 
 
-## Citation
-If you find it helpful, please kindly cite the paper.
+## 🤝 Citation
+If you find this repository useful for your work, please consider citing it as follows:
 ```
 @inproceedings{zhang2023tile,
   title={Tile Classification Based Viewport Prediction with Multi-modal Fusion Transformer},
